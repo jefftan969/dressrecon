@@ -2,7 +2,7 @@
 
 ### [Project page](https://jefftan969.github.io/dressrecon) | [Paper](https://jefftan969.github.io/dressrecon/paper.pdf)
 
-[Jeff Tan](https://github.com/jefftan969/), 
+[Jeff Tan](https://jefftan969.github.io/), 
 [Donglai Xiang](https://xiangdonglai.github.io/), 
 [Shubham Tulsiani](https://shubhtuls.github.io/),
 [Deva Ramanan](https://www.cs.cmu.edu/~deva/),
